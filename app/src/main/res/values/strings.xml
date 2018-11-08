@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhoCanBe</string>
+    <string name="title_activity_test_db">TestDb</string>
+    <string name="title_activity_new_gallery">NewGalleryActivity</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="page_one_text">Your first slide text here</string>
+    <string name="page_two_text">Your second slide text here</string>
+    <string name="page_three_text">Your third slide text here</string>
+</resources>
